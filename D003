@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Recipes</title>
+</head>
+<body>
+  <h1>This is my first HTML page!</h1>
+  <h2>seems like things are going well soo far</h2>
+  <h3>lets ass a recipe for some delicious chocolate chip cookies</h3>
+  <p>Here is a picture of the expected results</p>
+  <img src="image/cookie.jpg">
+  <p>Here is what the recipe calls for</p>
+  <h4>Ingredients</h4>
+  <ul> 
+    <li>6 eggs</li>
+    <li>2 cups of flour</li>
+    <li>2 Tablespoons of vanilla extract</li>
+    <li>2 Teaspoons of baking powder</li>
+    <li>1 cup of sugar</li>
+  </ul>
+<h4>Instructions</h4>
+<ol>
+  <li>Add eggs,flour and vanilla extract and mix</li>
+  <li>Combine with sugar and baking powder and stir</li>
+  <li>Eat half the cookie batter because it is delicious</li>
+  <li>Take the rest of the cookie batter and make cookies</li>
+  <li>Bake at 350 for 25 minutes</li>
+  <li>Enjoy!</li>
+</ol><hr>
+<p>oh you don't trust us?You want to see the actual recipe?You can view it <u>rigt here</u></p>
+
+</body>
+</html>
